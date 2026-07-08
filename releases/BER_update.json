@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "2.0.3",
+      "game_version": ">=1.4.5",
+      "date": "2026-07-08",
+      "changelog": "Berlin Map with realistic demand from BMV commuters data.",
+      "download": "https://github.com/mergedeyes/subwaybuilder_maps/releases/download/v2.0.3/BER.zip",
+      "sha256": "sha256:809a190d0dd5057b613fc82aa2c3b9df3b0ce672ab7fe23204405d84773f6dfb"
+    }
+  ]
+}
