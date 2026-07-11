@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "1.1.3",
+      "game_version": ">=1.4.5",
+      "date": "2026-07-11",
+      "changelog": "Map FRA update.",
+      "download": "https://github.com/mergedeyes/subwaybuilder_maps/releases/download/v4.0.2/FRA.zip",
+      "sha256": "662be1dea59522428007bbaff662f8cb6687bfef582acb75c265beae362dacc0"
+    },
+    {
       "version": "1.0.4",
       "game_version": ">=1.4.5",
       "date": "2026-07-09",
