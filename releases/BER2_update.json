@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "7.6.6",
+      "game_version": ">=1.4.5",
+      "date": "2026-07-31",
+      "changelog": "Map BER2 update.",
+      "download": "https://github.com/mergedeyes/subwaybuilder_maps/releases/download/v5.0.1/BER2.zip",
+      "sha256": "e8d2a3b9e0a5f1605e3ca04fa00fdf0eeb88d51ce404b6838244d3e7f20d515d"
+    },
+    {
       "version": "7.6.4",
       "game_version": ">=1.4.5",
       "date": "2026-07-31",
